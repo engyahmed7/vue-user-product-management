@@ -67,13 +67,13 @@ This is a Vue.js application for managing users and products. It allows users to
 - **public/**: Contains the HTML file (`index.html`) for the application.
 
 ## Screenshots
+![Screenshot (347)](https://github.com/engyahmed7/vue-user-product-management/assets/68815210/2a4e48c3-70ec-4567-842c-e4582b6ee5d8)
+![Screenshot (350)](https://github.com/engyahmed7/vue-user-product-management/assets/68815210/4495aebf-24a2-496c-a1e1-a53b2905cd4d)
 ![Screenshot (348)](https://github.com/engyahmed7/vue-user-product-management/assets/68815210/316f3173-4fde-46a3-92c5-96e0a25ad929)
 ![Screenshot (349)](https://github.com/engyahmed7/vue-user-product-management/assets/68815210/1f5fbb35-971c-4fbf-a37a-c78e9368f6c3)
-![Screenshot (350)](https://github.com/engyahmed7/vue-user-product-management/assets/68815210/4495aebf-24a2-496c-a1e1-a53b2905cd4d)
 ![Screenshot (344)](https://github.com/engyahmed7/vue-user-product-management/assets/68815210/00b8ee49-36ef-4f66-8245-ca44a3890373)
 ![Screenshot (345)](https://github.com/engyahmed7/vue-user-product-management/assets/68815210/679d13e3-1cce-4eaa-ad0b-7e3875426560)
-![Screenshot (346)](https://github.com/engyahmed7/vue-user-product-management/assets/68815210/a4c1bf32-120a-4240-808a-e6a473347e74)
-![Screenshot (347)](https://github.com/engyahmed7/vue-user-product-management/assets/68815210/2a4e48c3-70ec-4567-842c-e4582b6ee5d8)
+
 
 
 ## Contributing
